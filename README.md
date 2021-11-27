@@ -1,5 +1,5 @@
 # *GameSense*
-![image](https://user-images.githubusercontent.com/69080903/143668093-7758cb65-d02c-42c6-87eb-fd17f53a65b0.png))
+![logo](https://user-images.githubusercontent.com/69080903/143668093-7758cb65-d02c-42c6-87eb-fd17f53a65b0.png)
 -----------------------------------------
 # *Note*
 
